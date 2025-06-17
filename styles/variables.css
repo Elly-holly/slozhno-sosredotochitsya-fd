@@ -4,6 +4,7 @@
 */
 :root {
   --title-color: #db00ff;
---accent-color: #ff0070;
---font-family: 'IBM Plex mono', sans-serif;
+  --accent-color: #ff0070;
+  --font-family: "IBM Plex mono", sans-serif;
+  --button-border: 2px solid var(--accent-color);
 }
